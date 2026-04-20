@@ -1,5 +1,11 @@
 # Hi I'm inmostfly,from ZhengZhou University! 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inmostfly/inmostfly/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inmostfly/inmostfly/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/inmostfly/inmostfly/output/github-contribution-grid-snake.svg">
+</picture>
+
 <div align=center>
 <div style="display: flex; justify-content: center; align-items: center; gap: 3px;">
   <!-- <img height="137" src="./magic.gif" alt="magic" /> -->
@@ -12,6 +18,12 @@
 <img
   width="100%"
   src="https://camo.githubusercontent.com/9b4259176c96c0517f8c7b9db747396ee7fd25d658eb03e04ad7a1fb89471173/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f68722e676966"
+>
+</div>
+<div>
+<img
+src=".\github-metrics.svg"
+width="75%"
 >
 </div>
 <div>

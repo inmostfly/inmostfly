@@ -1,11 +1,5 @@
 # Hi I'm inmostfly,from ZhengZhou University! 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inmostfly/inmostfly/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inmostfly/inmostfly/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/inmostfly/inmostfly/output/github-contribution-grid-snake.svg">
-</picture>
-
 <div align=center>
 <div style="display: flex; justify-content: center; align-items: center; gap: 3px;">
   <!-- <img height="137" src="./magic.gif" alt="magic" /> -->
@@ -14,6 +8,13 @@
   
   <img width="20%" src="./wow.gif" alt="wow" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inmostfly/inmostfly/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inmostfly/inmostfly/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/inmostfly/inmostfly/output/github-contribution-grid-snake.svg">
+</picture>
+
 <div>
 <img
   width="100%"

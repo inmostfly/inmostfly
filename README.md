@@ -23,7 +23,7 @@
 </div>
 <div>
 <img
-src=".\github-metrics.svg"
+src="https://raw.githubusercontent.com/inmostfly/inmostfly/output/github-metrics.svg"
 width="65%"
 >
 </div>

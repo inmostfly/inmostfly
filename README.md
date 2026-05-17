@@ -4,7 +4,7 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 3px;">
   <!-- <img height="137" src="./magic.gif" alt="magic" /> -->
   
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inmostfly&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Language counter" />
+  <img width="55%" src="https://github-readme-stats-six-neon-ylrdbr013x.vercel.app/api/?username=inmostfly&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Language counter" />
   
   <img width="20%" src="./wow.gif" alt="wow" />
 </div>
@@ -24,7 +24,7 @@
 <div>
 <img
 src=".\github-metrics.svg"
-width="75%"
+width="65%"
 >
 </div>
 <div>
@@ -44,8 +44,8 @@ width="75%"
 
 <div align="center">
   <img
-    width="75%"
-    src="https://github-readme-stats.vercel.app/api?username=inmostfly&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"
+    width="55%"
+    src="https://github-readme-stats-six-neon-ylrdbr013x.vercel.app/api/top-langs/?username=inmostfly&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="inmostfly's Top Languages"
     alt="inmostfly's GitHub Stats"
   />
 </div>
